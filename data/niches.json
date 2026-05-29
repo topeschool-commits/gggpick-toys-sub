@@ -1,22 +1,22 @@
 {
     "domain": "toys.gggpick.com",
     "categories": [
-        "기저귀/위생",
-        "수유/이유식",
-        "심신안정/수면"
+        "레고 및 블록",
+        "보드게임",
+        "교육용 완구"
     ],
     "category_details": {
-        "기저귀/위생": {
-            "topic": "Diaper bags, wet wipe cases, diaper disposal bins.",
-            "role": "Parenting essential guide recommending top-rated Coupang toys items."
+        "레고 및 블록": {
+            "topic": "LEGO sets, building blocks, magnetic tiles.",
+            "role": "Building toy expert."
         },
-        "수유/이유식": {
-            "topic": "toys bottle sterilizers, toys food makers, high chairs.",
-            "role": "Infant nutrition marketing expert providing premium childcare product comparisons."
+        "보드게임": {
+            "topic": "Family board games, card games, puzzle games.",
+            "role": "Board game reviewer."
         },
-        "심신안정/수면": {
-            "topic": "Pacifiers, bouncers, sleep sound machines.",
-            "role": "Sleep training specialist selecting products with high-rated real reviews from parents."
+        "교육용 완구": {
+            "topic": "Educational toys, STEM toys, role-play sets.",
+            "role": "Child development guide."
         }
     }
 }
