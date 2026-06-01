@@ -5,7 +5,7 @@
 # 1. 사이트 기본 식별 정보
 baseURL = 'https://toys.gggpick.com/'
 languageCode = 'ko-kr'
-title = 'GGG Pick toys'
+title = 'GGG Pick 완구장난감'
 
 [params]
   # 2. 쿠팡 파트너스 전용 데이터
@@ -16,7 +16,7 @@ title = 'GGG Pick toys'
   homepage_sections = ["posts"]
   
   # 3. 사이트 설명 및 브랜딩
-  description = 'toys 관련 전문가 리뷰와 쿠팡 최저가 완벽 가이드.'
+  description = '레고 및 블록, 보드게임, 교육용 완구 등 아이들의 즐거움을 위한 장난감/토이 관련 쿠팡 로켓배송 특가 추천 및 리뷰.'
   brandColor = "#1a1c2c"
 
   # (공통) 애드센스 정보 및 메타 데이터
@@ -25,7 +25,7 @@ title = 'GGG Pick toys'
   env = 'production'
 
   # 🚨 사이트 식별 정보
-  sitename = "GGG Pick toys"
+  sitename = "GGG Pick 완구장난감"
   siteurl = "https://toys.gggpick.com"
   startdate = "2026-03-31"
   contactemail = "contact@gggpick.com"
