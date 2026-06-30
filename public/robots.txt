@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://toys.gggpick.com/sitemap.xml
