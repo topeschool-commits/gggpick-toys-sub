@@ -1,5 +1,5 @@
 ---
-title: "LEGO 블록과磁铁 타일의 기발한 결합- Build and Learn Together"
+title: "LEGO 블록과 타일의 기발한 결합- Build and Learn Together"
 date: 2026-06-06T18:16:59.843+09:00
 slug: "lego-블록과-타일의-기발한-결합-build-and-learn-together"
 description: "LEGO 블록과磁铁 타일을 사용하여 다양한 성질의 물체를 만들고, 과학적이고 기술적인 지식을 배울 수 있습니다."

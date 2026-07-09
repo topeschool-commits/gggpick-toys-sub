@@ -1,5 +1,5 @@
 ---
-title: "LEGO 블록과磁鐵의 선호도 분석- block와 magnet"
+title: "LEGO 블록과의 선호도 분석- block와 magnet"
 date: 2026-06-02T14:17:16.483+09:00
 slug: "lego-블록과의-선호도-분석-block와-magnet"
 description: "LEGO 블록과磁鐵는 요즘 아이들과 어른들까지도 관심을 갖고 있는 인기 제품입니다."
